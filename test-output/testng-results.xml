@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84" started-at="2016-04-16T14:44:25Z" finished-at="2016-04-16T14:44:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84" started-at="2016-04-16T14:44:25Z" finished-at="2016-04-16T14:44:25Z">
+      <class name="com.test.TestTwo">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.TestTwo@539e6baa]" name="beforeTest" is-config="true" duration-ms="14" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testFour()[pri:0, instance:com.test.TestTwo@539e6baa]" name="testFour" duration-ms="8" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+      </class> <!-- com.test.TestTwo -->
+      <class name="com.test.TestOne">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.TestOne@45ae90c9]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.test.TestOne@45ae90c9]" name="testOne" duration-ms="3" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="aftereMethod()[pri:0, instance:com.test.TestOne@45ae90c9]" name="aftereMethod" is-config="true" duration-ms="0" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftereMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.TestOne@45ae90c9]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:com.test.TestOne@45ae90c9]" name="testThree" duration-ms="9" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method status="PASS" signature="aftereMethod()[pri:0, instance:com.test.TestOne@45ae90c9]" name="aftereMethod" is-config="true" duration-ms="0" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftereMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.TestOne@45ae90c9]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:com.test.TestOne@45ae90c9]" name="testTwo" duration-ms="5" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="aftereMethod()[pri:0, instance:com.test.TestOne@45ae90c9]" name="aftereMethod" is-config="true" duration-ms="0" started-at="2016-04-16T16:44:25Z" finished-at="2016-04-16T16:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftereMethod -->
+      </class> <!-- com.test.TestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
