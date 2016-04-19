@@ -19,6 +19,12 @@ public class MessageUtil {
 //		return message; 
 //	}
 	
+	public void printError(){
+		System.out.println(message);
+		int a = 0;
+		int b = 1/a;
+	}
+	
 	public String dodavanjePoruke(){
 		message = "tutorialspoint" + message;
 		System.out.println(message);

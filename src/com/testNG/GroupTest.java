@@ -8,6 +8,12 @@ public class GroupTest {
 	String message = ".com";
 	MessageUtil messageUtil = new MessageUtil(message);
 
+	//grupisanje testova, kroz .xml fajl moze da se definise sta tacno da se testira
+	//slicno enabled testovima
+	
+//    <exclude name="functest"/>
+//    <include name="checkintest"/>
+	
 	@Test(groups = { "functest", "checkintest" })
 	public void testPrint() {
 		System.out.println("unutar ispisiPoruku()");
